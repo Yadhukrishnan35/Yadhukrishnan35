@@ -2,7 +2,7 @@
 
 I'm **Yadhukrishnan**, a B.Tech Electronics & Communication Engineering student passionate about **automobile electronics, embedded systems, and smart tech innovation**.
 
-🔧 I build systems that blend hardware and code.  
+🔧 I build intelligent hardware-software systems for automotive and embedded applications. 
 🚀 Currently working on **automatic fuel blending systems**, and **Digital Twin model**.  
 🧠 Always exploring ways to fuse electronics, AI, and automation to solve real-world problems.  
 💼 Past project: Railway traffic control system using PLC & LogixPro.  
@@ -51,51 +51,23 @@ I'm **Yadhukrishnan**, a B.Tech Electronics & Communication Engineering student 
 
 ---
 
-## 🚀 Knowledge & Skills
-
-<details>
-  <summary>Click to expand</summary>
-
 ### 🧠 Programming Languages
-![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-003545?style=for-the-badge&logo=mysql&logoColor=white)  
+![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-003545?style=for-the-badge&logo=mysql&logoColor=white)  
 
-### 💻 Frameworks & SDK
-![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)  
-![ESP-IDF](https://img.shields.io/badge/ESP--IDF-000?style=for-the-badge&logo=espressif&logoColor=white)  
-![PlatformIO](https://img.shields.io/badge/PlatformIO-0A0A0A?style=for-the-badge&logo=platformio&logoColor=white)  
+### 💻 Platforms & IDEs
+![Arduino IDE](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  ![ESP-IDF](https://img.shields.io/badge/ESP--IDF-000?style=for-the-badge&logo=espressif&logoColor=white)  ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)  ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)  ![Wokwi](https://img.shields.io/badge/Wokwi-2C2C2C?style=for-the-badge&logo=cloud&logoColor=white)  ![Proteus](https://img.shields.io/badge/Proteus-000000?style=for-the-badge&logo=proteus&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
-### 🛠 Microcontrollers & Dev Boards
-Arduino UNO/Mega · ESP8266/ESP32 · STM32 · AVR · Tiva C Series  
 
-### 🖥 Tools & Simulation Platforms
-Keil uVision · Proteus · Logix Pro · Tinkercad · STM32 IDE · MATLAB · Cisco Packet Tracer · Wokwi · Blynk · SCADA  
+### 🛠 Tech Stack
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)   ![Blynk](https://img.shields.io/badge/Blynk-00B0FF?style=for-the-badge&logo=blynk&logoColor=white)  ![SCADA](https://img.shields.io/badge/SCADA-000?style=for-the-badge&logo=unknown&logoColor=white)   
+
+
+### ⚙️ Frameworks
+![Mbed OS](https://img.shields.io/badge/Mbed%20OS-0078D7?style=for-the-badge&logo=arm&logoColor=white)  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  ![PlatformIO](https://img.shields.io/badge/PlatformIO-0A0A0A?style=for-the-badge&logo=platformio&logoColor=white)  
+
 
 ### 🌐 Communication Protocols
-UART · I2C · SPI · CAN · MQTT · AMQP · HTTP · BLE · Wi-Fi · LoWPAN  
-
-### 🧰 Sensors & Actuators
-MQ-2 · MQ-135 · DHT11/22 · HC-SR04 · IR Sensor · LDR · MPU6050 · RFID · Pulse Sensor · Servo Motor (SG90/MG996R) · Relay Module · OLED/LCD Display · Distributed Acoustic Sensing (DAS)  
-
-### 🔄 Version Control & Collaboration
-Git · GitHub · GitLab  
-
-### 💻 Operating Systems & Interfaces
-Windows 10/11 · Linux (CLI) · RTOS (FreeRTOS basics)  
-
-</details>
-
----
-
-## 📂 GitHub Stats
-![Yadhukrishnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yadhukrishnan35&show_icons=true&count_private=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yadhukrishnan35&layout=compact&theme=tokyonight)  
+![UART](https://img.shields.io/badge/UART-000?style=for-the-badge&logo=serial&logoColor=white)  ![I2C](https://img.shields.io/badge/I2C-000?style=for-the-badge&logo=serial&logoColor=white)  ![SPI](https://img.shields.io/badge/SPI-000?style=for-the-badge&logo=serial&logoColor=white)  ![MQTT](https://img.shields.io/badge/MQTT-FF6F00?style=for-the-badge&logo=mqtt&logoColor=white)  ![HTTP](https://img.shields.io/badge/HTTP-007ACC?style=for-the-badge&logo=http&logoColor=white)  
 
 ---
 
@@ -103,22 +75,19 @@ Windows 10/11 · Linux (CLI) · RTOS (FreeRTOS basics)
 <details>
   <summary>Click to see projects</summary>
 
-1. **Automatic Fuel Blending System** – [Repo/Details](#)  
-2. **PLC based Railway accident avoidance system** – [Repo/Details](#)  
-3. **Smart Attendance System (BLE)** – [Repo/Details](#)  
+| Project Name | Description | GitHub Repo | Skills Used |
+|--------------|-------------|------------|------------|
+| Automatic Fuel Blending System | Embedded system to optimize fuel mixture and reduce emissions | [Repo](https://github.com/Yadhukrishnan35/AFBS-Automatic-Fuel-Blending-System-.git) | C, C++, Python, Embedded C, Sensors (MQ-2, MQ-135), ESP32, Automotive Electronics |
+| Smart Attendance System | Implementing Smart Attendance taking system using BLE technology | [Repo](https://github.com/Yadhukrishnan35/LiFiProject) | C, Embedded C, Python, ESP32, Arduino IDE, Communication Protocols (UART, I2C, SPI), BLE technology |
+| Railway Traffic Control System | PLC-based simulation for controlling railway signals and barriers | [Repo](https://github.com/Yadhukrishnan35/RailwayPLC) | PLC, Logix Pro, Ladder Logic, Industrial Automation |
 
 </details>
 
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)  
-[![GitHub](https://img.shields.io/badge/GitHub-@yourusername-181717?style=for-the-badge&logo=github)](https://github.com/Yadhukrishnan35)  
-[![Email](https://img.shields.io/badge/Email-youremail-lightgrey?style=for-the-badge&logo=gmail)](mailto:yadhuyk3@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)  [![GitHub](https://img.shields.io/badge/GitHub-@Yadhukrishnan35-181717?style=for-the-badge&logo=github)](https://github.com/Yadhukrishnan35)  [![Email](https://img.shields.io/badge/Email-youremail-lightgrey?style=for-the-badge&logo=gmail)](mailto:yadhuyk3@gmail.com)  
 
 ---
-
-![Visitor Count](https://profile-counter.glitch.me/Yadhukrishnan35/count.svg)
-
 
 ✨ *“Driving innovation through code and hardware.”*
