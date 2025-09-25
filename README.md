@@ -40,28 +40,24 @@ I'm **Yadhukrishnan**, a B.Tech Electronics & Communication Engineering final ye
 ---
 ## 🎓 Certifications
 
-<details>
-  <summary>Click to expand</summary>
 
 - **Scada Interface Integration Coder Certification** — Sep 2025  
-  [Credmark](https://credmark.ai/badge/CM-2509-8YS7ONV)  
+  [![Credmark](https://img.shields.io/badge/Credmark-CM-1f425f?style=for-the-badge&logo=credmark&logoColor=white)](https://credmark.ai/badge/CM-2509-8YS7ONV)  
 
 - **Exploring Internet of Things with Cisco Packet Tracer** — June 2025  
-  [Cisco Networking Academy](https://www.netacad.com/courses/exploring-iot-cisco-packet-tracer?courseLang=en-US)  
+  [![Cisco](https://img.shields.io/badge/Cisco-Networking-0072C6?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/courses/exploring-iot-cisco-packet-tracer?courseLang=en-US)  
 
 - **Electric Vehicle Specialization** — Jan 2025  
-  [Udemy](https://www.udemy.com/certificate/UC-82f2bce8-264a-4c70-8203-52e2b9ddc079/)  
+  [![Udemy](https://img.shields.io/badge/Udemy-E5267A?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/certificate/UC-82f2bce8-264a-4c70-8203-52e2b9ddc079/)    
 
 - **Java Programming** — Jan 2025  
-  [Udemy](https://www.udemy.com/certificate/UC-27096183-cf92-407a-853c-78e33e27b183/)  
+  [![Udemy](https://img.shields.io/badge/Udemy-E5267A?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/certificate/UC-27096183-cf92-407a-853c-78e33e27b183/)  
 
 - **Industrial Automation** — Aug 2024  
-  [CPE LPU](https://files.lpu.in/umsweb/skilldevcourse/SkillDevelopmentCertificates/12211253_440_08_15_2024.pdf)  
+  [![LPU](https://img.shields.io/badge/LPU-CPE-FF4500?style=for-the-badge&logo=lovelyprofessionaluniversity&logoColor=white)](https://files.lpu.in/umsweb/skilldevcourse/SkillDevelopmentCertificates/12211253_440_08_15_2024.pdf)   
 
 - **Microcontroller Embedded C Programming** — Aug 2024  
-  [Udemy](https://www.udemy.com/certificate/UC-a06a3821-1be6-49ef-9b99-36e9ec1f9fca/)  
-
-</details>
+  [![Udemy](https://img.shields.io/badge/Udemy-E5267A?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/certificate/UC-a06a3821-1be6-49ef-9b99-36e9ec1f9fca/)  
 
 ---
 
@@ -84,4 +80,5 @@ I'm **Yadhukrishnan**, a B.Tech Electronics & Communication Engineering final ye
 ---
 
 ✨ *“Driving innovation through code and hardware.”*
+
 
